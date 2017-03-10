@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

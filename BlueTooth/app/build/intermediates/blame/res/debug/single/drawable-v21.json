@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\e0cba2299286ad0d13ba641de3e4c50b42041e6d\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

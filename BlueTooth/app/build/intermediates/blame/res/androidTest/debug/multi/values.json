@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\work\\android_studio_workspace\\BlueTooth\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "D:\\Software\\adt-bundle-windows-x86_64-20130917\\sdk\\.android\\build-cache\\354e23d44b30b81db49dc3141d4d8fce8a87f796\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

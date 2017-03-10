@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:5:22-71
+application
+ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\e0cba2299286ad0d13ba641de3e4c50b42041e6d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\e4fcbf38892dd23cde381e4684b9bfd0fe262c1f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\0780b339e03159ddd39cf8809e171117e31422b1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\5efcceec238546d141ea9c5a0a4304b32df90063\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\a64f162118b326b6130dabeaf3533368af55f321\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\3badc33325185de6ede52fd29ee8386b906915b0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\eb9e471dc0f6a5364bd407630288534319edf165\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\3cdf1dc4bddb901567630bc6b72b5c707cb63fea\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\32e00835c9d4ca4854266dc52492ffe0a8278021\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:11:9-40
+activity#action.eeg.yishi.bluetooth.MainActivity
+ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\e0cba2299286ad0d13ba641de3e4c50b42041e6d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\e4fcbf38892dd23cde381e4684b9bfd0fe262c1f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\0780b339e03159ddd39cf8809e171117e31422b1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\5efcceec238546d141ea9c5a0a4304b32df90063\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\a64f162118b326b6130dabeaf3533368af55f321\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\3badc33325185de6ede52fd29ee8386b906915b0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\eb9e471dc0f6a5364bd407630288534319edf165\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\3cdf1dc4bddb901567630bc6b72b5c707cb63fea\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\32e00835c9d4ca4854266dc52492ffe0a8278021\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] D:\Software\adt-bundle-windows-x86_64-20130917\sdk\.android\build-cache\e0cba2299286ad0d13ba641de3e4c50b42041e6d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\android_studio_workspace\BlueTooth\app\src\main\AndroidManifest.xml
