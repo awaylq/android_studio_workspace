@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="action.eeg.yishi.dogeeg">
+    <uses-permission  android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:supportsRtl="true"        >
+        <activity android:name=".animation.ActionActivity"/>
+
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".main.MainActivity"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".login.LoginActivity"></activity>
+        <activity android:name=".login.RegistActivity" />
+        <activity android:name=".info.InfoActivity">
+        </activity>
+    </application>
+
+</manifest>

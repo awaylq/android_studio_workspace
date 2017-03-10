@@ -1,0 +1,15 @@
+<resources>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="app_name">翼石科技</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button_start">开始/结束</string>
+    <string name="test">实验</string>
+    <string name="show">演示</string>
+    <string name="mark1">mark1</string>
+    <string name="mark2">mark2</string>
+    <string name="mark3">mark3</string>
+    <string name="type">二分类/四分类</string>
+    <string name="not_connect">未连接</string>
+    <string name="connect">连接</string>
+</resources>
